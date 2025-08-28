@@ -1,0 +1,7 @@
+/__pycache__/
+/venv/
+venv/
+/topic_model_dir/
+topic_model_dir/
+
+.env

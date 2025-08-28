@@ -1,0 +1,11 @@
+sentence-transformers 
+bertopic 
+umap-learn 
+hdbscan 
+numpy
+python_dotenv
+azure-storage-blob
+panda
+pytz
+ipywidgets
+sendgrid
